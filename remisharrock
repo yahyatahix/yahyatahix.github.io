@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <title>Contact</title>
+    <meta name="description" content="I'm a computer science associate professor. I teach and do research in Distributed Systems, Autonomic Computing and Networking Protocols.
+">
+    <link type="application/atom+xml" rel="alternate" href="http://www.remisharrock.fr/feed.xml" title="Jekyll-materialize" />
+    <link type="text/css" rel="stylesheet" href="/assets/css/Material-icons.css" media="screen,projection">
+    <link type="text/css" rel="stylesheet" href="/assets/css/app.css" media="screen,projection">
+    <link rel="canonical" href="http://www.remisharrock.fr/">
+</head>
+
+<body>
+    <header>
+        <div class="navbar-fixed">
+<nav class="white blue-text z-depth-0">
+    <ul id="slide-out" class="side-nav">
+        <li><a href="/" class="blue-text">Home</a></li>
+        
+            
+        
+            
+                <li><a href="/about/me/" class="blue-text">About me</a></li>
+            
+        
+            
+                <li><a href="/academic/" class="blue-text">Academic</a></li>
+            
+        
+            
+                <li><a href="/c/" class="blue-text">C and Linux resources</a></li>
+            
+        
+            
+        
+            
+                <li><a href="/" class="blue-text">Contact</a></li>
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+        <li><a href="/blog/" class="blue-text"><i class="fa fa-newspaper-o fa-lg"> Blog</i></a></li>
+        <li><a href="/feed.xml" class="blue-text"><i class="fa fa-rss fa-lg"> Feed</i></a></li>
+        <li><a href="/about/website/" class="blue-text"><i class="fa fa-cogs fa-lg"> This site</i></a></li>
+    </ul>
+    <div class="container container-large">
+    <a class="brand-logo" href="/" class="blue-text"><span class="light blue-text">Rémi-<b>SHARROCK</b></span></a>
+    <a href="#" data-activates="slide-out" class="button-collapse left blue-text"><i class="fa fa-university"></i></a>
+    <ul class="right hide-on-med-and-down">
+        
+            
+        
+            
+                <li><a href="/about/me/" class="blue-text">About me</a></li>
+            
+        
+            
+                <li><a href="/academic/" class="blue-text">Academic</a></li>
+            
+        
+            
+                <li><a href="/c/" class="blue-text">C and Linux resources</a></li>
+            
+        
+            
+        
+            
+                <li><a href="/" class="blue-text">Contact</a></li>
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+        <li><a href="/blog/" class="blue-text"><i class="fa fa-newspaper-o fa-lg"></i></a></li>
+        <li><a href="/feed.xml" class="blue-text"><i class="fa fa-rss fa-lg"></i></a></li>
+          <li><a href="/about/website/" class="blue-text"><i class="fa fa-cogs fa-lg"></i></i></a></li>
+    </ul>
+
+    </div>
+</nav>
+</div>
+
+    </header>
+    <main>
+        <div class="container">
+    <div class="section">
+        <div class="row">
+            <div class="col s12">
+                <div class="card white z-depth-0">
+
+                        <div class="card-title center-align"><h2 class="thin blue-text">Contact</h2></div>
+                        <div class="divider"></div>
+                        <br/>
+                        <article class="grey-text text-darken-2 post-content">
+                        <ul>
+  <li><i class="fa fa-phone fa-fw"></i> <a href="tel:+33145818311">+33 145 818 311</a><br /></li>
+  <li><i class="fa fa-mobile fa-fw"></i>  <a href="tel:+33662293210">+33 662 293 210</a><br /></li>
+  <li><i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:remi.sharrock@telecom-paristech.fr">remi.sharrock@telecom-paristech.fr</a><br /></li>
+  <li><i class="fa fa-map-signs fa-fw"></i> Building C - Desk <a href="http://www.telecom-paristech.fr/fileadmin/documents/pdf/Vivre-ecole/plan_etages.pdf">C218-2</a> (internal line 8311)<br /></li>
+  <li><i class="fa fa-university fa-fw"></i> <a href="https://goo.gl/maps/hANbiPAhbwv">Telecom ParisTech - INFRES; 46 Rue Barrault  75013 Paris</a><br /></li>
+</ul>
+
+                        </article>
+                  
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </main>
+    <footer class="page-footer no-margin __top blue">
+          <div class="container container-large">
+    <div class="row">
+      <div class="col l4 s12">
+        <h5 class="white-text">Links</h5>
+        <ul>
+          
+          <li><a class="grey-text text-lighten-3" href="https://github.com/remisharrock"><i class="fa fa-github"></i>&nbsp;&nbsp;remisharrock</a></li>
+          <li><a class="grey-text text-lighten-3" href="https://twitter.com/remisharrock"><i class="fa fa-twitter"></i>&nbsp;&nbsp;@ remisharrock</a></li>
+          <li><a class="grey-text text-lighten-3" href="mailto:remi.sharrock@telecom-paristech.fr"><i class="fa fa-send"></i>&nbsp;&nbsp;remi.sharrock@telecom-paristech.fr</a></li>
+        </ul>
+      </div>
+      <div class="col l6 offset-l2 s12 right-align">
+        <h5 class="white-text">Rémi-<b>SHARROCK</b></h5>
+        <p class="grey-text text-lighten-4">I'm a computer science associate professor. I teach and do research in Distributed Systems, Autonomic Computing and Networking Protocols.
+</p>
+      </div>
+    </div>
+  </div>
+  <div class="footer-copyright">
+    <div class="container center-align">
+      Made with <i class="fa fa-broken-heart"></i> <a class="white-text" href="/about/website/"> Reveal the mystery here !</a>
+    </div>
+  </div>
+
+    </footer>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/js/materialize.min.js"></script>
+    <script type="text/javascript">
+    $(function() {
+
+        //fontawesome broken-heart icon
+        var faFlash=$('footer').css('background-color'),
+            faFlash='color:'+faFlash+';transform:scale(1,2);-webkit-transform:scale(1,2);-moz-transform:scale(1,2);-ms-transform:scale(1,2);-o-transform:scale(1,2)';
+        $('i.fa.fa-broken-heart').html('<span style="padding:5px"><span class="fa-broken-heart fa-stack"><i class="fa fa-heart fa-stack-2x"></i><i class="fa fa-flash fa-stack-1x" style="'+faFlash+'"></i></span></span>');
+        $(".button-collapse").sideNav();
+        $('nav a').addClass('waves-effect');
+    });
+    </script>
+</body>
+</html>
