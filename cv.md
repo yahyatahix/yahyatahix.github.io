@@ -20,7 +20,7 @@ Baccalauréat en Sciences Mathématiques option Français, mention BIEN, session
 
 ## Compétences Technique
 
-* Développement: Python, C, VB.NET, Assembleur MIPS.
+* Développement: Python, C, VB.NET, Assembleur MIPS, HTML5, CSS3, Markdown.
 * Systèmes d’exploitation: Linux, Windows.
 * Comportement: Travail en équipe, Adaptation, Flexibilité, Autonomie.
 
