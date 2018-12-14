@@ -8,30 +8,29 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: 'I''m a computer science associate professor. I teach and do research
-  in Distributed Systems, Autonomic Computing and Networking Protocols.
+description: 'I''m a computer science student'
 
 '
-url: http://www.remisharrock.fr
+url: https://yahyatahix.github.io
 baseurl: ''
-logo: Rémi-<b>SHARROCK</b>
+logo: Yahya-<b>ETTAHI</b>
 paginate: 5
 paginate_path: "/blog/page:num/"
 owner:
-  email: remi.sharrock@telecom-paristech.fr
+  email: yahyaettahi@student.emi.ac.ma
   facebook:
     show: false
-    name: Rémi SHARROCK
-    url: https://fb.me/remi.sharrock
+    name: Yahya ETTAHI
+    url: https://www.facebook.com/yahya.ettahi
   github:
     show: true
-    username: remisharrock
+    username: yahyatahix
   twitter:
     show: true
-    username: remisharrock
+    username: EttahiY
   disqus:
     show: false
-    username: remisharrock
+    username: 
 sass:
   sass_dir: _sass
   style: compressed
